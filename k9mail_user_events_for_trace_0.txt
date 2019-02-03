@@ -1,0 +1,50 @@
+0: launch the app
+1: click the top-left three-lines (to open the menu)
+2: click [Gmail]/All Mail
+3: click Load up to 25 more
+4: click the top-left three-lines
+5: click [Gmail]/Drafts
+6: click Load up to 25 more
+7: click top-left three-lines
+8: click [Gmail]/Sent Mail
+9: click Load up to 25 more
+10: click the top-left three-lines
+11: click [Gmail]/Spam
+12: click the top-left three-lines
+13: click [Gmail]/Starred
+14: click the top-left three-lines
+15: click [Gmail]/Starred
+16: click Manage folders
+17: click Inbox
+18: click back
+19: click Outbox
+20: click back
+21: click top-right three dots
+22: click Show folders
+23: click All folders
+24: click top-right three-dots
+25: click Compact account
+26: click back
+27: click bwang080718
+28: click Refresh button
+29: click star for the 3rd mail
+30: click star for the 4th mail
+31: click the top-right three-dots
+32: click Settings
+33: click Add Account
+34: click Email [keyevent: type email address]
+35: click Password [keyevent: type password]
+36: click Next
+37: click Give this account a name [keyevent: type dwang080718]
+38: click Type your name (...) [keyevent: type dwang] 
+39: click Done
+40: click the new account
+41: click the first email within this account
+42: click SHOW PICTURES
+43: click back
+44: click the top-right three-dots
+45: click Compose
+46: click To [keyevent: type bwang080718@gmail.com]
+47: click Subject [keyevent: type Test] 
+48: click Message text [keyevent: type test]
+49: click SEND

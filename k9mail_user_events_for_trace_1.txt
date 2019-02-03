@@ -1,0 +1,58 @@
+0: launch the app
+1: click the first mail
+2: click SHOW PICTURES
+3: click the right-arrow (to check the next mail)
+4: click SHOW PICTURES
+5: click the right-arrow
+6: click the left-arrow (to go back)
+7: click the left-arrow
+8: click the three-dots
+9: click show headers
+10: scroll down (a scroll action involves clicking and dragging)
+11: scroll up
+12: click back
+13: click three-dots (for opening a menu)
+14: click Sort by...
+15: click Date
+16: click three-dots
+17: click Sort by
+18: click Arrival
+19: click three-dots
+20: click Select all
+21: click back
+22: click three-dots
+23: click Mark all as read
+24: click YES
+25: click three-dots
+26: click Compose
+27: click to (where to send the mail) [keyevent: type "xinq07@gmail.com"]
+28: click Subject [keyevent: type "Test"]
+29: click Message text [keyevent: "test"]
+30: click the SEND button
+31: click the magnifier button [keyevents: type "github" & hit enter]
+32: click the first mail
+33: click star
+34: click back
+35: click back
+36: click three-dots
+37: click Settings
+38: click About
+39: scroll down - 0
+40: scroll down - 1
+41: scroll up
+42: click back
+43: click General settings
+44: click Display
+45: click Language
+46: click Theme
+47: click DARK
+48: click Message view theme
+49: click LIGHT
+50: click back
+51: click Interaction
+52: click Confirm actions
+53: click back
+54: click Notifications
+55: check Quiet Time
+56: click back
+57: click back
